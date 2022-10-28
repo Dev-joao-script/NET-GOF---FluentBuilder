@@ -1,0 +1,16 @@
+D:\_serie_design_patterns\FluentBuilder1\BuilderPadrao\bin\Debug\net5.0\BuilderPadrao.exe
+D:\_serie_design_patterns\FluentBuilder1\BuilderPadrao\bin\Debug\net5.0\BuilderPadrao.deps.json
+D:\_serie_design_patterns\FluentBuilder1\BuilderPadrao\bin\Debug\net5.0\BuilderPadrao.runtimeconfig.json
+D:\_serie_design_patterns\FluentBuilder1\BuilderPadrao\bin\Debug\net5.0\BuilderPadrao.runtimeconfig.dev.json
+D:\_serie_design_patterns\FluentBuilder1\BuilderPadrao\bin\Debug\net5.0\BuilderPadrao.dll
+D:\_serie_design_patterns\FluentBuilder1\BuilderPadrao\bin\Debug\net5.0\ref\BuilderPadrao.dll
+D:\_serie_design_patterns\FluentBuilder1\BuilderPadrao\bin\Debug\net5.0\BuilderPadrao.pdb
+D:\_serie_design_patterns\FluentBuilder1\BuilderPadrao\obj\Debug\net5.0\BuilderPadrao.GeneratedMSBuildEditorConfig.editorconfig
+D:\_serie_design_patterns\FluentBuilder1\BuilderPadrao\obj\Debug\net5.0\BuilderPadrao.AssemblyInfoInputs.cache
+D:\_serie_design_patterns\FluentBuilder1\BuilderPadrao\obj\Debug\net5.0\BuilderPadrao.AssemblyInfo.cs
+D:\_serie_design_patterns\FluentBuilder1\BuilderPadrao\obj\Debug\net5.0\BuilderPadrao.csproj.CoreCompileInputs.cache
+D:\_serie_design_patterns\FluentBuilder1\BuilderPadrao\obj\Debug\net5.0\BuilderPadrao.dll
+D:\_serie_design_patterns\FluentBuilder1\BuilderPadrao\obj\Debug\net5.0\ref\BuilderPadrao.dll
+D:\_serie_design_patterns\FluentBuilder1\BuilderPadrao\obj\Debug\net5.0\BuilderPadrao.pdb
+D:\_serie_design_patterns\FluentBuilder1\BuilderPadrao\obj\Debug\net5.0\BuilderPadrao.genruntimeconfig.cache
+D:\_serie_design_patterns\FluentBuilder1\BuilderPadrao\obj\Debug\net5.0\BuilderPadrao.csproj.AssemblyReference.cache

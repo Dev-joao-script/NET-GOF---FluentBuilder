@@ -1,0 +1,16 @@
+D:\_serie_design_patterns\FluentBuilder1\FluentBuilder2\bin\Debug\net5.0\FluentBuilder2.exe
+D:\_serie_design_patterns\FluentBuilder1\FluentBuilder2\bin\Debug\net5.0\FluentBuilder2.deps.json
+D:\_serie_design_patterns\FluentBuilder1\FluentBuilder2\bin\Debug\net5.0\FluentBuilder2.runtimeconfig.json
+D:\_serie_design_patterns\FluentBuilder1\FluentBuilder2\bin\Debug\net5.0\FluentBuilder2.runtimeconfig.dev.json
+D:\_serie_design_patterns\FluentBuilder1\FluentBuilder2\bin\Debug\net5.0\FluentBuilder2.dll
+D:\_serie_design_patterns\FluentBuilder1\FluentBuilder2\bin\Debug\net5.0\ref\FluentBuilder2.dll
+D:\_serie_design_patterns\FluentBuilder1\FluentBuilder2\bin\Debug\net5.0\FluentBuilder2.pdb
+D:\_serie_design_patterns\FluentBuilder1\FluentBuilder2\obj\Debug\net5.0\FluentBuilder2.csproj.AssemblyReference.cache
+D:\_serie_design_patterns\FluentBuilder1\FluentBuilder2\obj\Debug\net5.0\FluentBuilder2.GeneratedMSBuildEditorConfig.editorconfig
+D:\_serie_design_patterns\FluentBuilder1\FluentBuilder2\obj\Debug\net5.0\FluentBuilder2.AssemblyInfoInputs.cache
+D:\_serie_design_patterns\FluentBuilder1\FluentBuilder2\obj\Debug\net5.0\FluentBuilder2.AssemblyInfo.cs
+D:\_serie_design_patterns\FluentBuilder1\FluentBuilder2\obj\Debug\net5.0\FluentBuilder2.csproj.CoreCompileInputs.cache
+D:\_serie_design_patterns\FluentBuilder1\FluentBuilder2\obj\Debug\net5.0\FluentBuilder2.dll
+D:\_serie_design_patterns\FluentBuilder1\FluentBuilder2\obj\Debug\net5.0\ref\FluentBuilder2.dll
+D:\_serie_design_patterns\FluentBuilder1\FluentBuilder2\obj\Debug\net5.0\FluentBuilder2.pdb
+D:\_serie_design_patterns\FluentBuilder1\FluentBuilder2\obj\Debug\net5.0\FluentBuilder2.genruntimeconfig.cache
